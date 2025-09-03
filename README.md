@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm  currently working on Frontend Web Development projects and an internships.<br>I'm working to collaborate on open-source frontend and web development projects.<br>I'm looking for help with optimizing backend performance and contributing to real-world projects.<br>I'm currently learning React.js, JavaScript and modern frontend frameworks.<br>Ask me about Web Development, Python, C++,  & Database Management.<br>I enjoy turning complex problems into simple solutions with clean code.
+I’m currently working on frontend web development projects and internships, while also exploring opportunities to collaborate on open-source frontend and web development initiatives. Alongside this, I’m looking to enhance my skills in optimizing backend performance and contributing to real-world projects that create meaningful impact. I’m currently learning React.js, JavaScript, and modern frontend frameworks to strengthen my development expertise. You can ask me about web development, Python, C++, or database management, as I enjoy tackling complex problems and turning them into simple, efficient solutions through clean and structured code.
 
 
 ## 🌐 Socials:
