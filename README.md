@@ -12,7 +12,8 @@
 ## About Me
 
 I'm a BCA (Data Science & AI) student at Shri Ramswaroop Memorial University with hands-on experience building full-stack web applications and data-driven tools.  
-I've completed 8 months of structured MERN + DSA training and a web development internship at CodSoft.  
+I've completed 8 months of structured MERN + DSA training (Apna College Sigma 10 Batch).  
+I also completed a web development internship at CodSoft.  
 I ship real projects, write clean code, and am actively looking for internship or junior full-stack roles.
 
 ---
@@ -76,11 +77,9 @@ Shri Ramswaroop Memorial University, Lucknow
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GANESHVERMA730&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GANESHVERMA730&layout=compact&hide_border=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=GANESHVERMA730&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
