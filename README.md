@@ -56,8 +56,10 @@ I ship real projects, write clean code, and am actively looking for internship o
 **Web Development Intern** — CodSoft *(1 month)*  
 Built and deployed frontend projects; worked with responsive design and JavaScript fundamentals.
 
-**MERN Stack + DSA Training** — Apna College Sigma 10 Batch *(8 months)*  
-Completed structured curriculum covering full-stack development and data structures & algorithms.
+## MERN Stack + DSA Training — Apna College Sigma 10 Batch (8 months)
+
+- Completed the full-stack development curriculum  
+- Currently working on DSA practice and project development
 
 ---
 
