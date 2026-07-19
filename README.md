@@ -91,7 +91,7 @@ Open to internship and junior full-stack developer roles.
 
 📧 [bibekverma21@gmail.com](mailto:bibekverma21@gmail.com)  
 💼 [linkedin.com/in/ganesh-verma-4358aa352](https://www.linkedin.com/in/ganesh-verma-4358aa352/)  
-🌐 [ganesh-verma-portfolio.vercel.app](https://ganesh-verma-portfolio.vercel.app/)
+🌐 [ganesh-verma-portfolio.vercel.app](https://ganesh-kumar-verma-portfolio.vercel.app/)
 
 ---
 
