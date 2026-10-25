@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ganesh--kumar--verma--portfolio.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://ganesh-kumar-verma-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-verma-4358aa352/)
 [![GitHub](https://img.shields.io/badge/GitHub-GANESHVERMA730-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GANESHVERMA730)
-[![Resume](https://img.shields.io/badge/Resume-Download-16a34a?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/GANESHVERMA730/Resume.git)
+[![Resume](https://drive.google.com/file/d/1bV_2ncYY8TK-DtRk_dJT0JPoDxtfSxkI/view?usp=drive_link)
 
 ---
 
